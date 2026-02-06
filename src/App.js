@@ -26,7 +26,7 @@ function App() {
     <div className="app">
 
       <header className="header">
-        <h1>Gestión de Alumnos</h1>
+        <h1>Gestión de Alumnos PRUEBA VERCEL</h1>
         <p>Aplicación React · DAW</p>
       </header>
 
